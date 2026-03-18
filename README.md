@@ -1,7 +1,22 @@
-# 🛡️ Staff Manager & Operations Lead | Juan
+# 🛡️ Staff Manager & Operations Lead
 
-### 👤 Sobre mí
-[cite_start][cite: 1, 2] [cite_start]Soy Juan, un profesional con más de **4 años de experiencia** liderando y gestionando equipos en entornos de servidores[cite: 3, 4]. [cite_start]Me especializo en la supervisión estratégica, la organización interna y el escalamiento de proyectos mediante una gestión de personal eficiente[cite: 4, 18, 19].
+<p align="center">
+  <img src="https://capsule-render.vercel.app/action/gradient/render?type=waving&height=200&gradient=auto&text=Juan&fontSize=70&fontAlignY=35&caption=Professional%20Staff%20Manager&captionAlignY=70" alt="Banner de Juan" />
+</p>
+
+## 👤 Perfil Profesional
+
+<table>
+  <tr>
+    <td width="250px">
+      <img src="https://raw.githubusercontent.com/0xMaximoJuan/Portafolio-Staff-Manager/main/image_e85fb9.png" width="200px" style="border-radius: 50%;" alt="Juan Profile"/>
+    </td>
+    <td>
+      <strong>Sobre mí</strong><br>
+      Soy Juan, un profesional con más de <b>4 años de experiencia</b> liderando y gestionando equipos en entornos de servidores[cite: 3, 4]. Me especializo en la supervisión estratégica, la organización interna y el escalamiento de proyectos mediante una gestión de personal eficiente[cite: 4, 18, 19].
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -14,7 +29,7 @@
 ---
 
 ### 📈 Trayectoria Administrativa
-[cite_start]He desempeñado roles de alta responsabilidad en diversas comunidades, asegurando la estabilidad y el crecimiento organizacional[cite: 8]:
+He desempeñado roles de alta responsabilidad en diversas comunidades, asegurando la estabilidad y el crecimiento organizacional:
 
 | Rol | Proyecto / Servidor |
 | :--- | :--- |
@@ -27,11 +42,11 @@
 ---
 
 ### 🎯 Objetivo Profesional
-[cite_start][cite: 18] [cite_start]Seguir creciendo como líder administrativo y técnico, aportando mi experiencia a proyectos y servidores que busquen optimizar y escalar sus equipos[cite: 19].
+[cite_start]Seguir creciendo como líder administrativo y técnico, aportando mi experiencia a proyectos y servidores que busquen optimizar y escalar sus equipos[cite: 18, 19].
 
 ---
 
 ### 📱 Contacto Directo
 <a href="https://discord.com/users/themaximojuan">
-  <img src="https://img.shields.io/badge/Discord-themaximojuan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge">
+  <img src="https://img.shields.io/badge/Discord-themaximojuan-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contacto">
 </a>
